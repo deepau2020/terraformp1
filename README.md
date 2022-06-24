@@ -8,4 +8,5 @@ Preparing for the Terraform cert
 
 ** Best Prep resources: CloudSpace Academy - Terraform Deep Dive (https://www.cloudspaceacademy.com/our_courses.html#Specialty)
 *Tutorials:  [HashiCorp's Learn Platform] (https://learn.hashicorp.com/terraform)
+
 *Certification Exam: [HashiCorp Certified: Terraform Associate] (https://www.hashicorp.com/certification#hashicorp-certified-terraform-associate)
